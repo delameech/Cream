@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "lb200-lab": {
+      "appLocation": ".",
+      "outputLocation": "."
+    }
+  }
+}
